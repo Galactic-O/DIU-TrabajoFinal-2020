@@ -39,7 +39,7 @@ Realizando algunos ligeros cambios en el diseño y estructura de la página se p
 
 ## Nueva propuesta de diseño
 
-El nuevo diseño de la página busca reestructurar la página para hacer la navegación más sencilla y más intuitiva. Se cambiarán los nombres de las secciones a nombres más intuitivos y descriptivos, y se enlazará de mejor manera las secciones. Se creará un menú de migas de pan para hacer más accesible la navegación, y se creará una barra de búsqueda que permita realizar búsquedas globales de artículos o zonas de interés de la página.
+El nuevo diseño de la página busca reestructurar la página para hacer la navegación más sencilla y más intuitiva. Se cambiarán los nombres de las secciones a nombres más intuitivos y descriptivos, y se enlazará de mejor manera las secciones. Se creará un menú de migas de pan para hacer más accesible la navegación, una barra lateral para la subsección de 'Espacios Coworking', y se creará una barra de búsqueda y de filtrado para la sección de Blog de la página. 
 
 Se creará una nueva página de reserva que permita reservas espacios, mostrando un calendario de horarios disponibles y un formulario especial para esta petición, añadiendo así esta nueva funcionalidad.
 
@@ -55,4 +55,52 @@ Se ha diseñado el siguiente sitemap para representar la nueva estructura de la 
 ![](docs/sitemap.png)
 
 
-----
+
+## Labelling
+
+Se hará uso del labelling empleado originalmente por la página de erranT.
+
+
+
+## Wireframes
+
+A continuación se muestran los wireframes creados para representar el nuevo diseño de la página.
+
+### Página principal
+
+![](docs/wireframes/PaginaPrincipal.png)
+
+### Espacios Coworking
+
+![](docs/wireframes/Espacios.png)
+
+### Características
+
+![](docs/wireframes/Caracteristicas.png)
+
+### Tarifas
+
+![](docs/wireframes/Tarifas.png)
+
+### Reserva
+
+![](docs/wireframes/Reserva.png)
+
+### Proyectos Audiovisuales
+
+![](docs/wireframes/Comunicacion.png)
+
+### Blog
+
+![](docs/wireframes/Blog.png)
+
+### Contacto
+
+![](docs/wireframes/Contacto.png)
+
+
+
+## Conclusiones
+
+La página de erranT, si bien se veía bien a primera vista, mostraba muchos problemas debido a su diseño poco centrado en la navegación cómoda y a las pocas funcionalidades y servicios ofrecidos. El nuevo diseño planteado busca ofrecer un diseño alternativo que permita la integración fácil de nuevas secciones y nuevos servicios en el caso de que sea necesario, además de ofrecer una navegación mucho más sencilla y user-friendly. Además, reestructura el contenido para hacerlo más intuitivo para el usuario y para hacerlo seguir su workflow. Con esto, se tratan muchos de los problemas iniciales de la página, y se ofrece un nuevo servicio que brindará al usuario una mejor experiencia de uso.
+
